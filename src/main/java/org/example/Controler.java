@@ -1,8 +1,6 @@
 package org.example;
 
-import java.awt.*;
 import java.sql.*;
-
 import static org.example.Controler_view.role;
 import static org.example.Controler_view.start;
 
@@ -65,7 +63,8 @@ public class Controler
     //Проверка на пустые поля
     public static boolean get_accept (String login, String password)
     {
-        try {
+        try
+        {
             String id = get_accept_in_bd(login);
             if (id == null)
             {
@@ -87,9 +86,11 @@ public class Controler
                             result = res.getItem();
                             query2 = "SELECT role FROM role WHERE id_role = '" + Integer.parseInt(result.getString(1)) + "';";
                             res = query("postgres", "1111", query2);
-                            if(res.getItem().next()) {
+                            if(res.getItem().next())
+                            {
                                 result = res.getItem();
-                                if (result.getString(1).equals("admin")) {
+                                if (result.getString(1).equals("admin"))
+                                {
                                     role(result.getString(1));
                                     return true;
                                 }
