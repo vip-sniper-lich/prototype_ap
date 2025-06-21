@@ -1,12 +1,12 @@
-package org.example;
+package org.example.View;
 
 import javax.swing.*;
 
-public class Admin extends JFrame
+public class Stockman extends JFrame
 {
     private JPanel admin_form;
 
-    public Admin ()
+    public Stockman()
     {
         setBounds(400,100, 800, 600);
         add(admin_form);

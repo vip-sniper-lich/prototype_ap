@@ -1,8 +1,8 @@
-package org.example;
+package org.example.View;
 
 import javax.swing.*;
 
-import static org.example.Controler.*;
+import static org.example.Controller.Controler.*;
 
 public class Authorization extends JFrame
 {
@@ -46,12 +46,12 @@ public class Authorization extends JFrame
             }
             else if (comboBox1.getSelectedIndex() == 2)
             {
-                login.setText("povar");
+                login.setText("teller");
                 password.setText("povar");
             }
             else if (comboBox1.getSelectedIndex() == 3)
             {
-                login.setText("waiter");
+                login.setText("stockman");
                 password.setText("waiter");
             }
         });
