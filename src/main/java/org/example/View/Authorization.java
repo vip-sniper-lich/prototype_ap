@@ -46,8 +46,8 @@ public class Authorization extends JFrame
             }
             else if (comboBox1.getSelectedIndex() == 2)
             {
-                login.setText("teller");
-                password.setText("povar");
+                login.setText("admin_ivanov ");
+                password.setText("7b3Fg9R1");
             }
             else if (comboBox1.getSelectedIndex() == 3)
             {

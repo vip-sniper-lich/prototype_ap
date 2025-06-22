@@ -1,0 +1,170 @@
+[
+    {
+        "password": "5mP9qW4e",
+        "date_open": "2021-09-05",
+        "id_role": "2",
+        "id_user": 13,
+        "login": "orlova_natalia",
+        "status": "new"
+    },
+    {
+        "password": "2fK7dL3s",
+        "date_open": "2024-02-28",
+        "id_role": "3",
+        "id_user": 14,
+        "login": "zhukov_viktor",
+        "status": "active"
+    },
+    {
+        "password": "9gH4jK6l",
+        "date_open": "2022-06-15",
+        "id_role": "2",
+        "id_user": 15,
+        "login": "solovieva_tatiana",
+        "status": "active"
+    },
+    {
+        "password": "T5hJ8kL2",
+        "date_open": "2021-03-22",
+        "id_role": "2",
+        "id_user": 1,
+        "login": "petrova_anna",
+        "status": "active"
+    },
+    {
+        "password": "7vN1mB5c",
+        "date_open": "2023-04-01",
+        "id_role": "3",
+        "id_user": 16,
+        "login": "vinogradov_alexey",
+        "status": "active"
+    },
+    {
+        "password": "P9qW4eR7",
+        "date_open": "2022-05-10",
+        "id_role": "3",
+        "id_user": 2,
+        "login": "sidorov_dmitry",
+        "status": "active"
+    },
+    {
+        "password": "3qW8eR2t",
+        "date_open": "2021-05-17",
+        "id_role": "2",
+        "id_user": 17,
+        "login": "pavlov_dmitry",
+        "status": "active"
+    },
+    {
+        "password": "X2zY6vB8",
+        "date_open": "2021-07-18",
+        "id_role": "2",
+        "id_user": 3,
+        "login": "kuznetsov_max",
+        "status": "blocked"
+    },
+    {
+        "password": "6yI9oP4u",
+        "date_open": "2022-08-22",
+        "id_role": "3",
+        "id_user": 18,
+        "login": "guseva_marina",
+        "status": "blocked"
+    },
+    {
+        "password": "3nM7dF1K",
+        "date_open": "2023-02-05",
+        "id_role": "3",
+        "id_user": 4,
+        "login": "morozova_olga",
+        "status": "active"
+    },
+    {
+        "password": "L8pQ6sT3",
+        "date_open": "2020-11-30",
+        "id_role": "1",
+        "id_user": 5,
+        "login": "smirnov_alex",
+        "status": "active"
+    },
+    {
+        "password": "1tR5yU8i",
+        "date_open": "2023-10-10",
+        "id_role": "2",
+        "id_user": 19,
+        "login": "komarov_artem",
+        "status": "active"
+    },
+    {
+        "password": "9rV2cN5m",
+        "date_open": "2023-09-14",
+        "id_role": "3",
+        "id_user": 6,
+        "login": "lebedeva_irina",
+        "status": "active"
+    },
+    {
+        "password": "1111",
+        "date_open": "null",
+        "id_role": "1",
+        "id_user": 20,
+        "login": "alex",
+        "status": "active"
+    },
+    {
+        "password": "G4hJ7kL1",
+        "date_open": "2022-04-25",
+        "id_role": "2",
+        "id_user": 7,
+        "login": "novikova_maria",
+        "status": "active"
+    },
+    {
+        "password": "7b3Fg9R1",
+        "date_open": "2020-01-15",
+        "id_role": "1",
+        "id_user": 0,
+        "login": "admin_ivanov",
+        "status": "active"
+    },
+    {
+        "password": "6tY8uI2o",
+        "date_open": "2024-01-08",
+        "id_role": "3",
+        "id_user": 8,
+        "login": "fedorov_sergey",
+        "status": "blocked"
+    },
+    {
+        "password": "8kL2jH5g",
+        "date_open": "2022-11-11",
+        "id_role": "3",
+        "id_user": 12,
+        "login": "titova_ekaterina",
+        "status": "new"
+    },
+    {
+        "password": "1wE5rT9p",
+        "date_open": "2021-12-12",
+        "id_role": "2",
+        "id_user": 9,
+        "login": "volkova_elena",
+        "status": "active"
+    },
+    {
+        "password": "4sD7fG2h",
+        "date_open": "2023-07-03",
+        "id_role": "3",
+        "id_user": 10,
+        "login": "kozlov_pavel",
+        "status": "active"
+    },
+    {
+        "password": "R3vB6nM9",
+        "date_open": "2020-08-20",
+        "id_role": "1",
+        "id_user": 11,
+        "login": "belyaev_andrey",
+        "status": "active"
+    }
+]
