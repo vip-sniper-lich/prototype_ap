@@ -32,7 +32,7 @@ public class Admin extends JFrame
             JComboBox<String> status = new JComboBox<>();
             status.addItem("new");
             status.addItem("active");
-            status.addItem("bloced");
+            status.addItem("blocked");
 
             // Создаем таблицу
             save_bd(all());
